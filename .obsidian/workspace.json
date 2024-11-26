@@ -16,7 +16,9 @@
                 "file": "README.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "README.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ],
@@ -43,7 +47,9 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -66,7 +72,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -81,7 +89,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -89,7 +99,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -120,7 +132,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
             }
           },
           {
@@ -132,7 +146,9 @@
                 "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -143,7 +159,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -153,7 +171,9 @@
               "type": "outline",
               "state": {
                 "file": "README.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
             }
           }
         ]
@@ -173,8 +193,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "50bd714189336840",
+  "active": "78b5715a9a00abcd",
   "lastOpenFiles": [
+    "solutions/networks-quiz.pdf",
+    "solutions/assignment4-sol.pdf",
+    "solutions/assignment3-sol.pdf",
+    "solutions",
+    "New folder",
+    "assignment4-sol.pdf",
+    "material/Lec14.pdf",
+    "material/Lec11.pdf",
+    "material/Lec10.pdf",
+    "material/Lec13.pdf",
+    "material/Lec12.pdf",
     "README.md"
   ]
 }
