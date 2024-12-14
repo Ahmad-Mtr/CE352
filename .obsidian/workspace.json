@@ -20,37 +20,6 @@
               "icon": "lucide-file",
               "title": "README"
             }
-          },
-          {
-            "id": "50bd714189336840",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "49d6416467773cb8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7a5bcadf504c7ff3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
         ]
       }
@@ -195,17 +164,18 @@
   },
   "active": "78b5715a9a00abcd",
   "lastOpenFiles": [
-    "solutions/networks-quiz.pdf",
-    "solutions/assignment4-sol.pdf",
     "solutions/assignment3-sol.pdf",
-    "solutions",
-    "New folder",
-    "assignment4-sol.pdf",
+    "solutions.md",
+    "README.md",
+    "solutions/assignment6.pdf",
+    "solutions/networks-quiz4.pdf",
     "material/Lec14.pdf",
-    "material/Lec11.pdf",
+    "solutions/assignment5.pdf",
     "material/Lec10.pdf",
     "material/Lec13.pdf",
-    "material/Lec12.pdf",
-    "README.md"
+    "material/Lec3.pdf",
+    "material/Lec2.pdf",
+    "material/Lec1.pdf",
+    "material/Lec4.pdf"
   ]
 }
