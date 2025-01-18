@@ -11,14 +11,12 @@
             "id": "997f3dd8e7a9ebfb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "material/Lec23.pdf"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-file-text",
+              "title": "Lec23"
             }
           }
         ]
@@ -139,10 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "material/Lec23.pdf"
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Lec23"
             }
           }
         ],
@@ -165,18 +163,18 @@
   },
   "active": "997f3dd8e7a9ebfb",
   "lastOpenFiles": [
+    "solutions/networks-quiz6.pdf.part",
+    "material/Lec24.pdf",
+    "material/Lec22.pdf",
+    "material/Lec21.pdf",
+    "material/Lec20.pdf",
+    "material/Lec19.pdf",
+    "README.md",
     "solutions/assignment7-sol.pdf.part",
     "solutions/assignment7-sol.pdf",
     "solutions/networks-quiz5.pdf",
-    "README.md",
     "solutions/networks-quiz4.pdf",
     "solutions/assignment9-sol.pdf",
-    "solutions/assignment10-sol.pdf",
-    "solutions/networks-quiz6.pdf",
-    "material/Lec26.pdf",
-    "solutions/assignment10-sol.pdf.part",
-    "material/Lec25.pdf",
-    "material/Lec24.pdf",
     "solutions.md",
     "Untitled.md"
   ]
